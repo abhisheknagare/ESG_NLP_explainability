@@ -20,7 +20,7 @@ We evaluate these methods on a binary classification task distinguishing substan
 
 ## Dataset
 
-**Source**: [LCYgogogo/ESG-dataset](https://github.com/LCYgogogo/ESG-dataset)
+**Source**: data/raw/esg_dataset.csv
 
 - 7,988 ESG-relevant sentences from Chinese corporate sustainability reports (English-translated)
 - 36 ESG topic categories organized under Environmental, Social, and Governance domains
