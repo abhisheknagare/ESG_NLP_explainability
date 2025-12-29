@@ -20,8 +20,7 @@ We evaluate these methods on a binary classification task distinguishing substan
 
 ## Dataset
 
-**Source**: ./esg_data.xlsx
-Dataset included in this repository: esg_data.xlsx
+**Source**: esg_data.xlsx
 
 - 7,988 ESG-relevant sentences from Chinese corporate sustainability reports (English-translated)
 - 36 ESG topic categories organized under Environmental, Social, and Governance domains
